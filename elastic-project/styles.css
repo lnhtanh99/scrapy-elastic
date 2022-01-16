@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* .container {
+    text-align: center;
+} */
+
+.search-container {
+    width: 400px;
+    text-align: left;
+}
+
+.title {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.result {
+    height: 180px;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.count {
+    font-weight: bold;
+    font-size: 20px;
+}
